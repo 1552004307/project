@@ -1,0 +1,285 @@
+﻿meal,family,market_segment,revenue
+BB,2,Online TA,10769092
+BB,2,Offline TA/TO,2755537
+BB,2,Direct,2225863
+SC,2,Online TA,2167909
+HB,2,Online TA,2090696
+BB,3,Online TA,1956275
+BB,4,Online TA,1642432
+HB,2,Offline TA/TO,1340707
+BB,1,Online TA,1271444
+BB,3,Online TA,1063644
+HB,2,Direct,529777
+BB,2,Groups,507897
+BB,1,Direct,446882
+BB,1,Corporate,408105
+BB,1,Offline TA/TO,405323
+HB,4,Online TA,388004
+BB,1,Groups,319825
+BB,3,Direct,288376
+BB,3,Direct,285417
+HB,3,Online TA,283555
+HB,3,Online TA,277354
+SC,1,Online TA,275618
+HB,2,Groups,261964
+BB,3,Offline TA/TO,246210
+BB,4,Direct,234825
+BB,4,Online TA,227709
+HB,3,Direct,167071
+BB,2,Corporate,161539
+HB,3,Offline TA/TO,148135
+HB,1,Offline TA/TO,140771
+HB,4,Direct,135355
+HB,3,Direct,128941
+BB,3,Offline TA/TO,128073
+BB,3,Online TA,124447
+HB,4,Online TA,87653
+Undefined,2,Offline TA/TO,85834
+HB,3,Offline TA/TO,85793
+BB,1,Aviation,82223
+FB,2,Offline TA/TO,79018
+HB,1,Groups,71853
+BB,3,Online TA,68889
+HB,1,Online TA,65495
+BB,4,Direct,64332
+HB,3,Online TA,62921
+HB,1,Direct,59818
+BB,3,Direct,56573
+BB,2,Online TA,55306
+SC,2,Offline TA/TO,55059
+BB,2,Online TA,54594
+SC,2,Direct,43778
+FB,2,Direct,43366
+BB,3,Groups,38706
+Undefined,2,Groups,38447
+Undefined,2,Direct,37759
+FB,3,Offline TA/TO,33978
+BB,3,Offline TA/TO,32876
+BB,4,Direct,27786
+FB,3,Direct,27241
+HB,3,Direct,25573
+BB,4,Offline TA/TO,24513
+HB,3,Offline TA/TO,23818
+BB,2,Direct,23574
+BB,5,Online TA,21407
+SC,3,Online TA,21056
+SC,1,Direct,20432
+SC,3,Online TA,20267
+HB,4,Direct,19697
+BB,5,Direct,18960
+FB,3,Offline TA/TO,18921
+HB,3,Online TA,18320
+BB,4,Online TA,17871
+Undefined,1,Groups,17598
+HB,4,Direct,17554
+BB,4,Online TA,17179
+FB,2,Online TA,17140
+HB,4,Offline TA/TO,16373
+FB,4,Direct,16271
+FB,3,Online TA,14367
+HB,2,Online TA,14352
+Undefined,3,Direct,13275
+BB,4,Direct,12905
+FB,2,Groups,12885
+Undefined,3,Offline TA/TO,12837
+BB,5,Direct,12588
+Undefined,4,Direct,12054
+FB,3,Online TA,11480
+FB,3,Offline TA/TO,11249
+HB,2,Corporate,11167
+FB,3,Direct,10970
+HB,3,Groups,10830
+BB,3,Direct,10334
+Undefined,1,Offline TA/TO,10313
+Undefined,3,Direct,9786
+HB,4,Online TA,9527
+Undefined,3,Offline TA/TO,9400
+SC,2,Online TA,9345
+Undefined,3,Direct,9039
+SC,3,Online TA,8916
+HB,2,Direct,8070
+BB,3,Corporate,8019
+SC,4,Online TA,7915
+SC,1,Offline TA/TO,7722
+BB,5,Online TA,7638
+BB,3,Groups,7453
+FB,4,Direct,7429
+BB,2,Offline TA/TO,6849
+Undefined,2,Online TA,6819
+HB,5,Direct,6711
+SC,0,Online TA,6111
+BB,3,Corporate,6083
+HB,5,Direct,6073
+HB,2,Offline TA/TO,6043
+Undefined,3,Groups,5777
+BB,3,Offline TA/TO,5410
+BB,5,Online TA,5161
+BB,4,Offline TA/TO,4835
+FB,4,Offline TA/TO,4641
+HB,5,Online TA,4309
+FB,3,Direct,4265
+HB,3,Direct,3938
+FB,1,Direct,3917
+BB,4,Groups,3852
+BB,5,Direct,3851
+Undefined,4,Online TA,3850
+BB,4,Direct,3605
+HB,3,Groups,3601
+FB,1,Offline TA/TO,3438
+BB,4,Direct,3378
+BB,4,Offline TA/TO,3261
+BB,3,Groups,3201
+BB,2,Direct,3171
+Undefined,3,Offline TA/TO,2970
+SC,3,Offline TA/TO,2784
+FB,1,Groups,2778
+HB,3,Offline TA/TO,2688
+FB,4,Online TA,2681
+FB,2,Corporate,2616
+BB,4,Online TA,2555
+Undefined,4,Offline TA/TO,2548
+BB,2,Direct,2473
+HB,1,Corporate,2472
+HB,4,Direct,2454
+HB,4,Offline TA/TO,2448
+HB,4,Offline TA/TO,2389
+Undefined,3,Groups,2358
+BB,4,Offline TA/TO,2343
+BB,1,Complementary,2287
+HB,4,Direct,2250
+BB,4,Direct,2238
+BB,4,Corporate,2220
+FB,3,Online TA,2154
+Undefined,3,Online TA,2083
+HB,5,Direct,2043
+HB,5,Offline TA/TO,1989
+SC,3,Direct,1983
+HB,4,Direct,1974
+Undefined,2,Corporate,1920
+BB,4,Direct,1902
+FB,3,Groups,1872
+BB,12,Offline TA/TO,1864
+Undefined,1,Direct,1765
+HB,5,Online TA,1743
+BB,2,Complementary,1729
+BB,5,Direct,1700
+FB,4,Offline TA/TO,1684
+SC,3,Offline TA/TO,1612
+BB,3,Online TA,1569
+SC,0,Direct,1487
+FB,2,Direct,1415
+FB,1,Online TA,1403
+Undefined,3,Corporate,1280
+FB,4,Online TA,1276
+FB,2,Offline TA/TO,1248
+BB,1,Online TA,1195
+SC,2,Corporate,1190
+SC,2,Groups,1166
+BB,0,Online TA,1151
+BB,5,Direct,1140
+BB,4,Offline TA/TO,1133
+BB,NULL,Online TA,1071
+BB,4,Corporate,1056
+SC,3,Direct,1054
+FB,4,Online TA,988
+BB,1,Direct,972
+FB,1,Corporate,972
+HB,4,Offline TA/TO,971
+SC,3,Offline TA/TO,942
+HB,5,Offline TA/TO,935
+BB,4,Online TA,931
+BB,3,Groups,918
+BB,2,Online TA,883
+Undefined,1,Corporate,817
+SC,3,Online TA,815
+BB,2,Aviation,810
+Undefined,5,Offline TA/TO,753
+HB,4,Groups,734
+HB,4,Online TA,701
+BB,5,Corporate,700
+BB,5,Corporate,630
+BB,5,Direct,605
+SC,2,Online TA,597
+BB,3,Direct,590
+BB,5,Groups,580
+BB,3,Corporate,558
+BB,4,Corporate,552
+FB,4,Direct,548
+Undefined,4,Direct,531
+HB,3,Online TA,518
+Undefined,3,Groups,447
+HB,4,Online TA,433
+BB,3,Online TA,426
+SC,3,Direct,425
+BB,5,Online TA,412
+BB,3,Direct,404
+BB,4,Offline TA/TO,376
+BB,3,Offline TA/TO,356
+HB,5,Online TA,322
+HB,3,Direct,320
+BB,0,Direct,289
+BB,10,Corporate,285
+Undefined,1,Online TA,273
+BB,5,Offline TA/TO,270
+SC,2,Direct,258
+BB,2,Groups,240
+SC,3,Complementary,240
+HB,3,Complementary,230
+SC,3,Corporate,230
+HB,3,Offline TA/TO,219
+SC,2,Offline TA/TO,214
+BB,3,Online TA,209
+SC,0,Offline TA/TO,200
+HB,2,Complementary,172
+BB,12,Online TA,169
+HB,3,Corporate,160
+SC,1,Corporate,159
+SC,4,Online TA,148
+BB,3,Complementary,146
+HB,3,Corporate,120
+FB,4,Complementary,108
+BB,NULL,Undefined,72
+BB,4,Complementary,70
+SC,2,Complementary,64
+BB,0,Offline TA/TO,63
+HB,2,Online TA,56
+BB,NULL,Direct,48
+BB,2,Offline TA/TO,48
+BB,4,Complementary,42
+BB,4,Complementary,40
+BB,3,Offline TA/TO,36
+BB,3,Complementary,32
+SC,0,Groups,27
+BB,NULL,Undefined,24
+SC,0,Corporate,20
+SC,1,Complementary,12
+HB,1,Complementary,10
+BB,2,Complementary,6
+BB,0,Aviation,0
+BB,0,Complementary,0
+BB,0,Corporate,0
+BB,0,Groups,0
+BB,2,Complementary,0
+BB,2,Corporate,0
+BB,3,Complementary,0
+BB,4,Complementary,0
+BB,5,Complementary,0
+BB,5,Direct,0
+BB,6,Direct,0
+BB,10,Direct,0
+BB,20,Direct,0
+BB,26,Offline TA/TO,0
+BB,40,Direct,0
+BB,50,Direct,0
+FB,1,Complementary,0
+FB,2,Complementary,0
+FB,4,Complementary,0
+HB,0,Groups,0
+HB,0,Offline TA/TO,0
+HB,27,Direct,0
+HB,55,Direct,0
+SC,0,Complementary,0
+SC,1,Groups,0
+SC,4,Complementary,0
+Undefined,1,Complementary,0
+Undefined,2,Complementary,0
